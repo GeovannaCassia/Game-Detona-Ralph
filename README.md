@@ -1,14 +1,11 @@
-# 🎮 Detona Ralph - Mini Jogo
+# 🎮 [Detona Ralph - Mini Jogo](https://geovannacassia.github.io/Game-Detona-Ralph/)
 
 Bem-vindo ao **Detona Ralph**, um mini jogo desenvolvido durante o curso de **Desenvolvimento Front-End da DIO**. Neste jogo divertido e viciante, seu objetivo é **acertar o Ralph** sempre que ele aparecer na tela e acumular a maior pontuação possível antes que o tempo acabe! ⏰
 
----
 
 ## 📸 Demonstração
 
 ![Gameplay Detona Ralph](detona-ralph.gif) <!-- Substitua por um gif ou imagem real do seu jogo rodando -->
-
----
 
 ## 🕹️ Como jogar
 
@@ -17,15 +14,12 @@ Bem-vindo ao **Detona Ralph**, um mini jogo desenvolvido durante o curso de **De
 3. Você tem **60 segundos** para marcar o máximo de pontos que conseguir.
 4. Quando o tempo acabar, o jogo exibirá sua pontuação final.
 
----
 
 ## 🚀 Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript 
-
----
 
 ## 📁 Estrutura do Projeto
 ```
@@ -47,7 +41,6 @@ Bem-vindo ao **Detona Ralph**, um mini jogo desenvolvido durante o curso de **De
         └── reset.css
 ```
 
----
 
 ## 🔧 Funcionalidades principais
 
@@ -57,7 +50,6 @@ Bem-vindo ao **Detona Ralph**, um mini jogo desenvolvido durante o curso de **De
 - **Feedback sonoro** ao acertar o Ralph.
 - Alert final com a sua **pontuação**.
 
----
 
 ## 📦 Como executar o projeto
 
